@@ -1,6 +1,6 @@
 ### Hi! I'm [Ivan Garzón](https://ivangarzon.dev) 👋🏼
 
-I'm a **Fullstack Developer** based in Bogota ☀️, working at [SUMR](https://sumr.co). I'm a coding passionate focused on **JavaScript**. Interested in design, tech and **OpenSource** ❤️
+I'm a **Fullstack Developer** based in Bogota (Living in AU 🇦🇺 Now) ☀️, working at [SUMR](https://sumr.co). I'm a coding passionate focused on **JavaScript**. Interested in design, tech and **OpenSource** ❤️
 
 Aside from coding I enjoy writing technical things [at my blog](https://ivangarzon.dev/blog) ✍️
 
